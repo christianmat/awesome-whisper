@@ -75,6 +75,7 @@
 - [Ito AI](https://github.com/heyito/ito) - AI voice dictation for Mac. (FOSS)
 - [OpenSuperWhisper](https://github.com/Starmel/OpenSuperWhisper) - Dictation app for macOS. (FOSS)
 - [Screenpipe](https://screenpipe.com) - Local screen and audio recording with Whisper transcription. (Source-available)
+- [Yogurt](https://github.com/FrigadeHQ/yogurt) - Meeting notes app for macOS, Windows and Linux that transcribes calls locally and summarizes them with an on-device model. (FOSS · Electron)
 
 ## Web apps
 
